@@ -2,11 +2,11 @@
 
 This page provides an overview of the courses I have completed throughout my computer science studies, including both core computer science subjects and relevant mathematics courses. The computer science section comes first, detailing the topics I've covered in areas like programming, algorithms, systems, and specialized topics like AI and machine learning. After that, you’ll find a list of the math courses that have built the theoretical foundation for many of the concepts used in computer science.
 
-For courses that involved significant programming or projects, I will be adding links to my GitHub repositories where applicable. Not all courses required coding or practical work, so only those with associated programming projects will have links to relevant repositories. I will update this page with the links in the near future.
+For courses that involved significant programming or projects, I have added links to my GitHub repositories where applicable. Not all courses required coding or practical work, so only those with associated programming projects will have links to relevant repositories. 
 
 ## Computer Science Courses
 
-Below is a categorized list of the computer science courses I've completed. This list is organized by key areas such as programming, algorithms, systems, and theoretical computer science. A future update will include links to my GitHub repositories for courses that involved substantial programming work.
+Below is a categorized list of the computer science courses I've completed. This list is organized by key areas such as programming, algorithms, systems, and theoretical computer science. 
 
 | Categorization                            | Course Title                                                           | Course Code   | Institution | Semester            | GitHub Repository Link |
 |-------------------------------------------|------------------------------------------------------------------------|---------------|-------------|---------------------|------------------------|
