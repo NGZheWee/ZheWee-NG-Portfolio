@@ -1,21 +1,8 @@
-## Math Courses for Computer Science
+# Computer Science Courses Overview
 
-Throughout my academic journey, I have completed several math courses that provide the necessary theoretical and practical foundation in key areas such as calculus, differential equations, discrete mathematics, probability theory, and linear algebra. These courses have equipped me with the skills to approach challenges in algorithm optimization, data analysis, machine learning, and theoretical computation. Below is a structured list of the math courses I have taken, organized by their respective mathematical domains.
+This page provides an overview of the computer science courses I have completed throughout my academic journey. These courses span foundational topics in programming, data structures, algorithms, computer systems, and advanced areas like artificial intelligence and cryptography. Each course has helped deepen my understanding of core computing principles and practical software development, while also giving me the tools to tackle complex computational problems.
 
-| Categorization                       | Course Title                                                     | Course Code | Institution | Semester    |
-|--------------------------------------|-------------------------------------------------------------------|-------------|-------------|-------------|
-| **Calculus & Differential Equations**| Calculus for Science and Engineering                              | MATH 20B    | UCSD        | Fall 2020   |
-|                                      | Calculus & Analytic Geometry for Science & Engineering             | MATH 20C    | UCSD        | Winter 2021 |
-|                                      | Introduction to Differential Equations                            | MATH 20D    | UCSD        | Spring 2023 |
-| **Discrete Math & Probability Theory**| Discrete Mathematics                                              | CSE 20      | UCSD        | Winter 2021 |
-|                                      | Discrete Mathematics and Probability Theory                       | COMPSCI 70  | UCB         | Fall 2023   |
-| **Probability & Statistics**         | Statistical Methods                                               | MATH 183    | UCSD        | Fall 2021   |
-| **Linear Algebra**                   | Linear Algebra                                                    | MATH 18     | UCSD        | Spring 2021 |
-
-
-## Computer Science Courses
-
-Throughout my academic career, I have taken a wide range of computer science courses that have equipped me with the skills and knowledge necessary for both theoretical and practical aspects of computing. These courses cover key areas such as programming, software development, data structures, algorithms, computer organization, and emerging topics like artificial intelligence and machine learning. Each course has contributed to my understanding of how to design efficient software, optimize systems, and solve complex computational problems. Below is a categorized list of the computer science courses I have completed, reflecting the breadth and depth of my studies in the field.
+Below is a categorized list of the computer science courses I have taken, grouped by key areas to highlight the breadth of topics covered.
 
 | Categorization                            | Course Title                                                           | Course Code   | Institution | Semester            |
 |-------------------------------------------|------------------------------------------------------------------------|---------------|-------------|---------------------|
@@ -39,3 +26,8 @@ Throughout my academic career, I have taken a wide range of computer science cou
 |                                           | Introduction to Machine Learning                                       | COMPSCI 189   | UCB         | Fall 2024           |
 | **Special Topics**                        | Special Topics: Decentralized Finance                                  | COMPSCI 194   | UCB         | Fall 2024           |
 
+## GitHub Repositories for CS Classes
+
+In addition to coursework, I have created and contributed to GitHub repositories for several of my computer science classes. These repositories contain project work, coding assignments, and collaborative software engineering tasks that demonstrate my practical application of the concepts learned in class. These repositories not only showcase my technical abilities but also provide insight into my development process and collaborative skills.
+
+I will be adding a chart that outlines these repositories, detailing the course, the repository link, and the key projects featured within each one.
