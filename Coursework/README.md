@@ -1,32 +1,32 @@
 # Courses Taken for Computer Science
 
-This page provides an overview of the courses I have completed throughout my computer science studies, including both core computer science subjects and relevant mathematics courses. The computer science section comes first, detailing the topics I've covered in areas like programming, algorithms, systems, and specialized topics like AI and machine learning. After that, you’ll find a list of the math courses that have built the theoretical foundation for many of the concepts used in computer science.
+This page provides an overview of the courses I have completed throughout my computer science studies, covering both core computer science subjects and relevant mathematics courses. The computer science section comes first, detailing the topics I've covered in areas like programming, algorithms, systems, and specialized topics such as AI and machine learning. Following that, you'll find a list of the math courses that have laid the theoretical foundation for these concepts.
 
-For courses that involved significant programming or projects, I have added links to my GitHub repositories where applicable. Not all courses required coding or practical work, so only those with associated programming projects will have links to relevant repositories. 
+For many of the courses that involved substantial programming projects or practical assignments, I have created GitHub repositories to showcase the work I completed. You will find links to these repositories in the table below where applicable. Not every course required programming work, so only those with relevant projects will have a corresponding GitHub repository link.
 
 ## Computer Science Courses
 
-Below is a categorized list of the computer science courses I've completed. This list is organized by key areas such as programming, algorithms, systems, and theoretical computer science. 
+Below is a categorized list of the computer science courses I've completed. The list includes GitHub repository links for courses that involved significant programming and project work.
 
 | Categorization                            | Course Title                                                           | Course Code   | Institution | Semester            | GitHub Repository Link |
 |-------------------------------------------|------------------------------------------------------------------------|---------------|-------------|---------------------|------------------------|
 | **Programming and Software Development**  | Introduction to Programming                                            | CSE 8A        | UCSD        | Fall 2020           |                        |
 |                                           | Accelerated Intro to Programming                                       | CSE 11        | UCSD        | Winter 2021         |                        |
-|                                           | Basic Data Structures & Object-Oriented Design                         | CSE 12        | UCSD        | Spring 2021         |                        |
-|                                           | Software Tools & Techniques Lab                                        | CSE 15L       | UCSD        | Spring 2021         |                        |
-|                                           | Software Engineering                                                   | CSE 110       | UCSD        | Fall 2022           |                        |
-|                                           | Completion of Work in Computer Science 61A                             | COMPSCI 47A   | UCB         | Fall 2023           |                        |
-|                                           | Completion of Work in Computer Science 61C                             | COMPSCI 47C   | UCB         | Fall 2023           |                        |
+|                                           | Basic Data Structures & Object-Oriented Design                         | CSE 12        | UCSD        | Spring 2021         | [GitHub](https://github.com/NGZheWee/CSE12_BasicDataStructures_UCSD) |
+|                                           | Software Tools & Techniques Lab                                        | CSE 15L       | UCSD        | Spring 2021         | [GitHub](https://github.com/NGZheWee/CSE15L_SoftwareTools_UCSD) |
+|                                           | Software Engineering                                                   | CSE 110       | UCSD        | Fall 2022           | [GitHub](https://github.com/NGZheWee/CSE110_SoftwareEngineering_UCSD) |
+|                                           | Completion of Work in Computer Science 61A                             | COMPSCI 47A   | UCB         | Fall 2023           | [GitHub](https://github.com/NGZheWee/CS47A_InterpretationOfComputerPrograms_UCB) |
+|                                           | Completion of Work in Computer Science 61C                             | COMPSCI 47C   | UCB         | Fall 2023           | [GitHub](https://github.com/NGZheWee/CS47C_ComputerArchitecture_UCB) |
 | **Data Structures and Algorithms**        | Mathematics for Algorithms and Systems                                 | CSE 21        | UCSD        | Fall 2021           |                        |
 |                                           | Advanced Data Structures                                               | CSE 100       | UCSD        | Winter 2022         |                        |
 |                                           | Design & Analysis of Algorithms                                        | CSE 101       | UCSD        | Winter 2023         |                        |
-| **Computer Organization and Systems**     | Computer Organization & Systems Programming                            | CSE 30        | UCSD        | Fall 2021           |                        |
+| **Computer Organization and Systems**     | Computer Organization & Systems Programming                            | CSE 30        | UCSD        | Fall 2021           | [GitHub](https://github.com/NGZheWee/CSE30_ComputerOrganization_UCSD) |
 |                                           | Components and Design Techniques for Digital Systems                   | CSE 140       | UCSD        | Spring 2023         |                        |
-|                                           | Digital Systems Laboratory                                             | CSE 140L      | UCSD        | Spring 2023         |                        |
-|                                           | Introduction to Database Systems                                       | COMPSCI 186   | UCB         | Fall 2023           |                        |
+|                                           | Digital Systems Laboratory                                             | CSE 140L      | UCSD        | Spring 2023         | [GitHub](https://github.com/NGZheWee/CSE140L_DigitalSystemsLab_UCSD) |
+|                                           | Introduction to Database Systems                                       | COMPSCI 186   | UCB         | Fall 2023           | [GitHub](https://github.com/NGZheWee/CS186_DatabaseSystems_UCB) |
 | **Theoretical Computer Science**          | Theory of Computation                                                  | CSE 105       | UCSD        | Winter 2022         |                        |
-|                                           | Cryptography                                                           | COMPSCI 171   | UCB         | Spring 2024         |                        |
-| **Artificial Intelligence and Machine Learning** | Introduction to Artificial Intelligence                              | COMPSCI 188   | UCB         | Spring 2024         |                        |
+|                                           | Cryptography                                                           | COMPSCI 171   | UCB         | Spring 2024         | [GitHub](https://github.com/NGZheWee/CS171_Cryptography_UCB) |
+| **Artificial Intelligence and Machine Learning** | Introduction to Artificial Intelligence                              | COMPSCI 188   | UCB         | Spring 2024         | [GitHub](https://github.com/NGZheWee/CS188_ArtificialIntelligence_UCB) |
 |                                           | Introduction to Machine Learning                                       | COMPSCI 189   | UCB         | Fall 2024           |                        |
 | **Special Topics**                        | Special Topics: Decentralized Finance                                  | COMPSCI 194   | UCB         | Fall 2024           |                        |
 
