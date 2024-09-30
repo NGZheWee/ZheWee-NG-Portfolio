@@ -1,33 +1,51 @@
-# Computer Science Courses Overview
+# Courses Taken for Computer Science
 
-This page provides an overview of the computer science courses I have completed throughout my academic journey. These courses span foundational topics in programming, data structures, algorithms, computer systems, and advanced areas like artificial intelligence and cryptography. Each course has helped deepen my understanding of core computing principles and practical software development, while also giving me the tools to tackle complex computational problems.
+This page provides an overview of the courses I have completed throughout my computer science studies, including both core computer science subjects and relevant mathematics courses. The computer science section comes first, detailing the topics I've covered in areas like programming, algorithms, systems, and specialized topics like AI and machine learning. After that, you’ll find a list of the math courses that have built the theoretical foundation for many of the concepts used in computer science.
 
-Below is a categorized list of the computer science courses I have taken, grouped by key areas to highlight the breadth of topics covered.
+For courses that involved significant programming or projects, I will be adding links to my GitHub repositories where applicable. Not all courses required coding or practical work, so only those with associated programming projects will have links to relevant repositories. I will update this page with the links in the near future.
 
-| Categorization                            | Course Title                                                           | Course Code   | Institution | Semester            |
-|-------------------------------------------|------------------------------------------------------------------------|---------------|-------------|---------------------|
-| **Programming and Software Development**  | Introduction to Programming                                            | CSE 8A        | UCSD        | Fall 2020           |
-|                                           | Accelerated Intro to Programming                                       | CSE 11        | UCSD        | Winter 2021         |
-|                                           | Basic Data Structures & Object-Oriented Design                         | CSE 12        | UCSD        | Spring 2021         |
-|                                           | Software Tools & Techniques Lab                                        | CSE 15L       | UCSD        | Spring 2021         |
-|                                           | Software Engineering                                                   | CSE 110       | UCSD        | Fall 2022           |
-|                                           | Completion of Work in Computer Science 61A                             | COMPSCI 47A   | UCB         | Fall 2023           |
-|                                           | Completion of Work in Computer Science 61C                             | COMPSCI 47C   | UCB         | Fall 2023           |
-| **Data Structures and Algorithms**        | Mathematics for Algorithms and Systems                                 | CSE 21        | UCSD        | Fall 2021           |
-|                                           | Advanced Data Structures                                               | CSE 100       | UCSD        | Winter 2022         |
-|                                           | Design & Analysis of Algorithms                                        | CSE 101       | UCSD        | Winter 2023         |
-| **Computer Organization and Systems**     | Computer Organization & Systems Programming                            | CSE 30        | UCSD        | Fall 2021           |
-|                                           | Components and Design Techniques for Digital Systems                   | CSE 140       | UCSD        | Spring 2023         |
-|                                           | Digital Systems Laboratory                                             | CSE 140L      | UCSD        | Spring 2023         |
-|                                           | Introduction to Database Systems                                       | COMPSCI 186   | UCB         | Fall 2023           |
-| **Theoretical Computer Science**          | Theory of Computation                                                  | CSE 105       | UCSD        | Winter 2022         |
-|                                           | Cryptography                                                           | COMPSCI 171   | UCB         | Spring 2024         |
-| **Artificial Intelligence and Machine Learning** | Introduction to Artificial Intelligence                              | COMPSCI 188   | UCB         | Spring 2024         |
-|                                           | Introduction to Machine Learning                                       | COMPSCI 189   | UCB         | Fall 2024           |
-| **Special Topics**                        | Special Topics: Decentralized Finance                                  | COMPSCI 194   | UCB         | Fall 2024           |
+## Computer Science Courses
 
-## GitHub Repositories for CS Classes
+Below is a categorized list of the computer science courses I've completed. This list is organized by key areas such as programming, algorithms, systems, and theoretical computer science. A future update will include links to my GitHub repositories for courses that involved substantial programming work.
 
-In addition to coursework, I have created and contributed to GitHub repositories for several of my computer science classes. These repositories contain project work, coding assignments, and collaborative software engineering tasks that demonstrate my practical application of the concepts learned in class. These repositories not only showcase my technical abilities but also provide insight into my development process and collaborative skills.
+| Categorization                            | Course Title                                                           | Course Code   | Institution | Semester            | GitHub Repository Link |
+|-------------------------------------------|------------------------------------------------------------------------|---------------|-------------|---------------------|------------------------|
+| **Programming and Software Development**  | Introduction to Programming                                            | CSE 8A        | UCSD        | Fall 2020           |                        |
+|                                           | Accelerated Intro to Programming                                       | CSE 11        | UCSD        | Winter 2021         |                        |
+|                                           | Basic Data Structures & Object-Oriented Design                         | CSE 12        | UCSD        | Spring 2021         |                        |
+|                                           | Software Tools & Techniques Lab                                        | CSE 15L       | UCSD        | Spring 2021         |                        |
+|                                           | Software Engineering                                                   | CSE 110       | UCSD        | Fall 2022           |                        |
+|                                           | Completion of Work in Computer Science 61A                             | COMPSCI 47A   | UCB         | Fall 2023           |                        |
+|                                           | Completion of Work in Computer Science 61C                             | COMPSCI 47C   | UCB         | Fall 2023           |                        |
+| **Data Structures and Algorithms**        | Mathematics for Algorithms and Systems                                 | CSE 21        | UCSD        | Fall 2021           |                        |
+|                                           | Advanced Data Structures                                               | CSE 100       | UCSD        | Winter 2022         |                        |
+|                                           | Design & Analysis of Algorithms                                        | CSE 101       | UCSD        | Winter 2023         |                        |
+| **Computer Organization and Systems**     | Computer Organization & Systems Programming                            | CSE 30        | UCSD        | Fall 2021           |                        |
+|                                           | Components and Design Techniques for Digital Systems                   | CSE 140       | UCSD        | Spring 2023         |                        |
+|                                           | Digital Systems Laboratory                                             | CSE 140L      | UCSD        | Spring 2023         |                        |
+|                                           | Introduction to Database Systems                                       | COMPSCI 186   | UCB         | Fall 2023           |                        |
+| **Theoretical Computer Science**          | Theory of Computation                                                  | CSE 105       | UCSD        | Winter 2022         |                        |
+|                                           | Cryptography                                                           | COMPSCI 171   | UCB         | Spring 2024         |                        |
+| **Artificial Intelligence and Machine Learning** | Introduction to Artificial Intelligence                              | COMPSCI 188   | UCB         | Spring 2024         |                        |
+|                                           | Introduction to Machine Learning                                       | COMPSCI 189   | UCB         | Fall 2024           |                        |
+| **Special Topics**                        | Special Topics: Decentralized Finance                                  | COMPSCI 194   | UCB         | Fall 2024           |                        |
 
-I will be adding a chart that outlines these repositories, detailing the course, the repository link, and the key projects featured within each one.
+---
+
+## Math Courses
+
+Mathematics forms the backbone of computer science, helping to solve complex computational problems, optimize algorithms, and understand data. Below is a list of the math courses I have taken, categorized by topics such as calculus, linear algebra, and probability theory.
+
+| Categorization                       | Course Title                                                     | Course Code | Institution | Semester    |
+|--------------------------------------|-------------------------------------------------------------------|-------------|-------------|-------------|
+| **Calculus & Differential Equations**| Calculus for Science and Engineering                              | MATH 20B    | UCSD        | Fall 2020   |
+|                                      | Calculus & Analytic Geometry for Science & Engineering             | MATH 20C    | UCSD        | Winter 2021 |
+|                                      | Introduction to Differential Equations                            | MATH 20D    | UCSD        | Spring 2023 |
+| **Discrete Math & Probability Theory**| Discrete Mathematics                                              | CSE 20      | UCSD        | Winter 2021 |
+|                                      | Discrete Mathematics and Probability Theory                       | COMPSCI 70  | UCB         | Fall 2023   |
+| **Probability & Statistics**         | Statistical Methods                                               | MATH 183    | UCSD        | Fall 2021   |
+| **Linear Algebra**                   | Linear Algebra                                                    | MATH 18     | UCSD        | Spring 2021 |
+
+---
+
+By taking these courses, I have developed a strong foundation in both theoretical and practical computer science. This foundation has been essential for programming, designing algorithms, and exploring advanced topics like machine learning and cryptography. The mathematics courses have been invaluable in providing the necessary tools to understand and implement many of these computer science concepts.
