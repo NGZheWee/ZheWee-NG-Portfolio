@@ -1,16 +1,15 @@
-## Math Courses
+## Math Courses for Computer Science
 
-A strong mathematical foundation is essential for understanding and excelling in various areas of computer science, from algorithm design and optimization to theoretical computation and machine learning. Below is a list of the math courses I have completed, categorized by key areas. These courses cover fundamental topics such as calculus, linear algebra, probability theory, and discrete mathematics—each critical for solving complex computational problems, optimizing algorithms, and analyzing data.
+Throughout my academic journey, I have completed several math courses that provide the necessary theoretical and practical foundation in key areas such as calculus, differential equations, discrete mathematics, probability theory, and linear algebra. These courses have equipped me with the skills to approach challenges in algorithm optimization, data analysis, machine learning, and theoretical computation. Below is a structured list of the math courses I have taken, organized by their respective mathematical domains.
 
-| Semester    | Institution | Course Code | Course Title                                                     | Categorization                           |
-|-------------|-------------|-------------|-------------------------------------------------------------------|------------------------------------------|
-| Fall 2020   | UCSD        | MATH 20B    | Calculus for Science and Engineering                              | Calculus & Differential Equations        |
-| Winter 2021 | UCSD        | MATH 20C    | Calculus & Analytic Geometry for Science & Engineering             | Calculus & Differential Equations        |
-| Spring 2023 | UCSD        | MATH 20D    | Introduction to Differential Equations                            | Calculus & Differential Equations        |
-| Winter 2021 | UCSD        | CSE 20      | Discrete Mathematics                                              | Discrete Math & Probability Theory       |
-| Fall 2023   | UCB         | COMPSCI 70  | Discrete Mathematics and Probability Theory                       | Discrete Math & Probability Theory       |
-| Fall 2021   | UCSD        | MATH 183    | Statistical Methods                                               | Probability & Statistics                 |
-| Spring 2021 | UCSD        | MATH 18     | Linear Algebra                                                    | Linear Algebra                           |
+| Categorization                       | Course Title                                                     | Course Code | Institution | Semester    |
+|--------------------------------------|-------------------------------------------------------------------|-------------|-------------|-------------|
+| **Calculus & Differential Equations**| Calculus for Science and Engineering                              | MATH 20B    | UCSD        | Fall 2020   |
+|                                      | Calculus & Analytic Geometry for Science & Engineering             | MATH 20C    | UCSD        | Winter 2021 |
+|                                      | Introduction to Differential Equations                            | MATH 20D    | UCSD        | Spring 2023 |
+| **Discrete Math & Probability Theory**| Discrete Mathematics                                              | CSE 20      | UCSD        | Winter 2021 |
+|                                      | Discrete Mathematics and Probability Theory                       | COMPSCI 70  | UCB         | Fall 2023   |
+| **Probability & Statistics**         | Statistical Methods                                               | MATH 183    | UCSD        | Fall 2021   |
+| **Linear Algebra**                   | Linear Algebra                                                    | MATH 18     | UCSD        | Spring 2021 |
 
 
-These courses have equipped me with the mathematical skills necessary to approach a wide variety of computational problems, optimize systems, and analyze data in both theoretical and practical applications of computer science.
