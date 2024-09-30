@@ -1,0 +1,11 @@
+PS D:\OneDrive\UC Berkeley\Engineering Design Scholar Program\Programs\ABSA V2> python FairForLife.py
+Performing Aspect Mapping: 100%|█████████████████████████████████████████████████| 6463/6463 [00:00<00:00, 6795.15it/s]
+Performing Sentiment Analysis: 100%|███████████████████████████████████████████████| 6463/6463 [01:32<00:00, 69.82it/s]
+No data for Environment__Bio-Environment (POSITIVE)
+No data for Environment__Bio-Environment (NEGATIVE)
+No data for Energy__Renewability (POSITIVE)
+No data for Energy__Renewability (NEGATIVE)
+No data for Manufacturing_Process__Production (POSITIVE)
+Error processing Manufacturing_Process__Production (NEGATIVE): max_df corresponds to < documents than min_df
+No data for Manufacturing_Process__Worker (POSITIVE)
+No data for Manufacturing_Process__Worker (NEGATIVE)

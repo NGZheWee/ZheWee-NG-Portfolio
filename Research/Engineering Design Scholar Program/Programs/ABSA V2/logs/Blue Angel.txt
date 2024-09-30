@@ -1,0 +1,17 @@
+PS D:\OneDrive\UC Berkeley\Engineering Design Scholar Program\Programs\ABSA V2> python BlueAngel.py
+Performing Aspect Mapping: 100%|█████████████████████████████████████████████████| 4274/4274 [00:00<00:00, 7204.14it/s]
+Performing Sentiment Analysis: 100%|███████████████████████████████████████████████| 4274/4274 [01:28<00:00, 48.22it/s]
+No data for Material__Bio-Friendliness (POSITIVE)
+No data for Material__Chemical_Contents (POSITIVE)
+No data for Material__Chemical_Contents (NEGATIVE)
+No data for Environment__Bio-Environment (POSITIVE)
+No data for Environment__Bio-Environment (NEGATIVE)
+Error processing Energy__Renewability (POSITIVE): max_df corresponds to < documents than min_df
+No data for Manufacturing_Process__Production (POSITIVE)
+No data for Manufacturing_Process__Production (NEGATIVE)
+No data for Manufacturing_Process__Worker (POSITIVE)
+No data for Manufacturing_Process__Worker (NEGATIVE)
+No data for Manufacturing_Process__Supply_Chain (POSITIVE)
+No data for Manufacturing_Process__Supply_Chain (NEGATIVE)
+Error processing User_Experience__Safety (POSITIVE): max_df corresponds to < documents than min_df
+No data for User_Experience__Safety (NEGATIVE)

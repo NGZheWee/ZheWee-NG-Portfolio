@@ -1,0 +1,25 @@
+'General Sustainability': ['benefit', 'certification', 'circular economy', 'eco-conscious', 'eco-friendly', 'eco-label', 'eco-material', 'eco-product', 'eco-technology', 'ecoconscious', 'ecofriendly', 'ecolabel', 'ecological', 'ecology', 'ecomaterial', 'ecoproduct', 'environment', 'environmental', 'environmentally friendly', 'impact', 'nature', 'preventing', 'protection', 'reduce', 'reducing', 'reduction', 'saving', 'savings', 'sustainability', 'sustainable', 'sustainable design'],
+
+'Material: Bio Friendly': ['PET', 'PVC', 'bio-based', 'bio-degradable', 'bio-material', 'bio-plastic', 'bio-product', 'biobased', 'biodegradable', 'biomaterial', 'bioplastic', 'compost', 'degradation', 'green label', 'green material', 'green product', 'green technology', 'microplastic', 'natural resource', 'plastic free', 'plastic pollution', 'plastic waste', 'pollution', 'pollution prevention', 'polyethylene terephthalate', 'polypropylene', 'polystyrene', 'polyvinyl chloride', 'use plastic', 'water'],
+
+'Material: Chemical Contents': ['chemical free', 'chemical-free', 'organic'],
+
+'Material: Recyclability': ['closed loop', 'closed-loop', 'cradle to cradle', 'cradle to grave', 'cradle-to-cradle', 'cradle-to-grave', 'reclaimed', 'recover', 'recovered', 'recovery', 'recycle', 'recycled', 'recycling', 'refurbished', 'refurbishing', 'reman', 'remanufacture', 'remanufactured', 'renewable', 'repair', 'repurpose', 'restorative', 'reuse', 'reused', 'reusing', 'single use', 'single-use'],
+
+'Material: Waste': ['conservation', 'conserving', 'disposal', 'waste', 'zero waste'],
+
+'Energy: Consumption': ['consume', 'consumer', 'efficiency', 'efficient', 'energy', 'energy consumption', 'energy saving', 'energy savings', 'phantom load', 'power consumption'],
+
+'Energy: Renewability': ['bio-diesel', 'bio-energy', 'bio-fuel', 'biodiesel', 'bioenergy', 'biofuel', 'solar'],
+
+'Environment: Bioenvironment': ['bio-diversity', 'biodiversity'],
+
+'Environment: Climate': ['carbon', 'carbon neutral', 'climate', 'climate action', 'climate crisis', 'emission', 'footprint', 'global warming', 'greenhouse', 'landfill', 'net-zero', 'ozone layer', 'zero carbon'],
+
+'Environment: Soil': ['acidification'],
+
+'Product: Price': ['cheap', 'cheaper'],
+
+'Product: Quality': ['brake', 'broke', 'broken', 'crash', 'crashed', 'die', 'died', 'durability', 'durable', 'dying', 'garbage', 'last long', 'life cycle', 'lifecycle', 'lifespan', 'lifetime', 'maintainable', 'maintenance', 'stop work', 'stopped working', 'take back', 'take-back', 'tear', 'useless', 'wear'],
+
+'Manufacturing Process': ['cleaner production', 'deforestation', 'dematerialisation', 'dematerialization', 'eco-design', 'ecodesign', 'fair trade']
