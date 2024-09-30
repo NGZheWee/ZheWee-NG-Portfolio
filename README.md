@@ -16,4 +16,4 @@ Welcome to my portfolio! I'm Zhe Wee Ng, also known as Derrick, an undergraduate
 ## Contact
 If you'd like to learn more about my work or discuss potential collaborations, feel free to reach out to me via email at [ngzhewee@berkeley.edu](mailto:ngzhewee@berkeley.edu).
 
-For more information, you can also visit my LinkedIn profile on [LinkedIn]().
+For more information, you can also visit my LinkedIn profile on [LinkedIn](https://www.linkedin.com/in/ngzhewee/).
