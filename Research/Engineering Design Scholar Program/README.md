@@ -6,4 +6,4 @@ The project involved scraping extensive datasets from online platforms and analy
 
 For more detailed information, you can view the full project poster below:
 
-[Project Poster (PDF)]([./Sustainable_Design_Insights_Derrick.pdf](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Research/Engineering%20Design%20Scholar%20Program/Sustainable%20Design%20Insights_Derrick.pdf))
+[**Download the Project Poster (PDF)**](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Research/Engineering%20Design%20Scholar%20Program/Sustainable%20Design%20Insights_Derrick.pdf)
