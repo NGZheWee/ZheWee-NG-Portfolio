@@ -12,9 +12,5 @@ This repository showcases my research endeavors across a variety of topics in en
 - Utilized natural language processing (NLP) to analyze certification data and customer reviews, providing insights into how certifications influence consumer perceptions.
 - Developed web scraping tools using DrissionPage, Selenium, and BeautifulSoup to extract and analyze Amazon product data, automating pagination, login, and data extraction with error handling.
 - Conducted sentiment analysis comparing LLMs, BERT, and VADER using correlation matrices and aspect-based analysis in Python. Applied LDA topic modeling to assess customer perceptions and inform sustainable design strategies.
-
 [View Full Documentation](https://github.com/NGZheWee/EngineeringDesignScholarProgram_UCB)
 
-## Future Research Projects
-
-More research projects will be added to this repository as they are completed, covering topics such as sustainable engineering, machine learning, and design innovation.
