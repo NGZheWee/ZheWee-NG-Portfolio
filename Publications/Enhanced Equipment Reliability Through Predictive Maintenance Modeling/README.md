@@ -12,7 +12,7 @@ Welcome to my publication repository. This space lists my academic publications.
 
   The paper compares various machine learning models, including Recurrent Neural Networks (RNN), Convolutional LSTM, and Bi-LSTM. The Convolutional Bi-LSTM model was shown to excel in predicting failures, making it a promising solution for industrial predictive maintenance.
 
-- **Link to paper**: [The Paper (DOCX)]([[URL_to_the_paper](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modeling/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modelin_ZheWeeNg.docx))](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modeling/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modelin_ZheWeeNg.docx)
+- **Link to paper**: [The Paper (DOCX)]([[URL_to_the_paper](Enhanced Equipment Reliability Through Predictive Maintenance Modeling))](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modeling/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modelin_ZheWeeNg.docx)
 
 
 ## 🔗 How to Cite
