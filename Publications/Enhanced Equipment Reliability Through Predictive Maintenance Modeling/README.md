@@ -14,8 +14,6 @@ Welcome to my publication repository. This space lists my academic publications.
 
 - **Link to paper**: [The Paper (DOCX)]([URL_to_the_paper](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modeling/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modelin_ZheWeeNg.docx))
 
-### Future Publications
-Additional papers will be added as they are published. Stay tuned for updates on upcoming research.
 
 ## 🔗 How to Cite
 
