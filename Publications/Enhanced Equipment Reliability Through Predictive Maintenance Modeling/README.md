@@ -17,6 +17,6 @@ Welcome to my publication repository. This space lists my academic publications.
 
 ## 🔗 How to Cite
 
-To cite this paper, use the following format:
+To cite my paper, use the following format:
 ```plaintext
 Zhe Wee Ng, "Enhanced Equipment Reliability Through Predictive Maintenance Modeling," under review for publication.
