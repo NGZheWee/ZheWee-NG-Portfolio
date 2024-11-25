@@ -27,8 +27,8 @@ Below is a categorized list of the computer science courses I've completed. The 
 | **Theoretical Computer Science**          | Theory of Computation                                                  | CSE 105       | UCSD        | Winter 2022         |                        |
 |                                           | Cryptography                                                           | COMPSCI 171   | UCB         | Spring 2024         | [GitHub](https://github.com/NGZheWee/CS171_Cryptography_UCB) |
 | **Artificial Intelligence and Machine Learning** | Introduction to Artificial Intelligence                              | COMPSCI 188   | UCB         | Spring 2024         | [GitHub](https://github.com/NGZheWee/CS188_ArtificialIntelligence_UCB) |
-|                                           | Introduction to Machine Learning                                       | COMPSCI 189   | UCB         | Fall 2024           |                        |
-| **Special Topics**                        | Special Topics: Decentralized Finance                                  | COMPSCI 194   | UCB         | Fall 2024           |                        |
+|                                           | Introduction to Machine Learning                                       | COMPSCI 189   | UCB         | Fall 2024           | [GitHub](https://github.com/NGZheWee/CS189_MachineLearning_UCB/) |
+| **Special Topics**                        | Special Topics: Decentralized Finance                                  | COMPSCI 194   | UCB         | Fall 2024           | [GitHub](https://github.com/NGZheWee/CS194_DecentralizedFinance_UCB) |
 
 ---
 
