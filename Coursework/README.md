@@ -1,4 +1,4 @@
-# Computer Science Coursework Overview
+# Zhe Wee (Derrick) Ng's Computer Science Coursework Overview
 
 This page provides an overview of the courses I have completed throughout my computer science studies, covering both core computer science subjects and relevant mathematics courses. The computer science section comes first, detailing the topics I've covered in areas like programming, algorithms, systems, and specialized topics such as AI and machine learning. Following that, you'll find a list of the math courses that have laid the theoretical foundation for these concepts.
 
