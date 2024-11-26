@@ -1,4 +1,4 @@
-# Research Projects by Zhe Wee Ng
+# Research Projects by Zhe Wee (Derrick) Ng
 
 This repository highlights my research projects, focusing on applying advanced AI techniques to analyze and interpret data for interdisciplinary applications, including sustainable design, 3D video generation, and dynamic scene rendering.
 
