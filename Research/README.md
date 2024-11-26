@@ -34,7 +34,7 @@ This repository highlights my research projects, focusing on applying advanced A
   - A **dynamic scene graph** to enable real-time updates and coherent rendering.
 - Leveraging diffusion models to enhance 3D scene synthesis with fine-grained control over dynamic modifications.
 
-[Link to GitHub Repository - Coming Soon]
+[View Completed GitHub Repo](https://github.com/NGZheWee-UCSD/open-oasis)
 
 ---
 
