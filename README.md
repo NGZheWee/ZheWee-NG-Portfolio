@@ -1,4 +1,4 @@
-# Zhe Wee Ng's Portfolio
+# Zhe Wee (Derrick) Ng's Portfolio
 
 Welcome to my portfolio! I'm Zhe Wee Ng, also known as Derrick, an undergraduate Computer Science major at UC Berkeley. My academic focus centers on leveraging machine learning and AI to solve real-world problems across various fields, including sustainable design, advanced manufacturing, and biomedical innovations. This repository showcases my coursework, research contributions, and publications throughout my academic journey.
 
