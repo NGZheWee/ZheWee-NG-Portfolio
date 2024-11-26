@@ -1,4 +1,4 @@
-# Publications by Zhe Wee Ng
+# Publications by Zhe Wee (Derrick) Ng
 
 Welcome to my publication repository. This space lists my academic publications. More publications will be added as they are completed and published.
 
