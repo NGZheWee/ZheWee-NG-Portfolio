@@ -10,7 +10,7 @@ Welcome to my publication repository. This space lists my academic publications.
 - **Abstract**: 
   This paper investigates advanced predictive maintenance (PdM) techniques by employing machine learning models, particularly Long Short-Term Memory (LSTM) networks, to enhance equipment reliability through failure prediction and time-series data analysis from industrial operations. The study aims to minimize operational downtime and boost productivity by comparing different models, including Recurrent Neural Networks (RNN), Convolutional LSTM, and Bidirectional LSTM (Bi-LSTM). Results demonstrate that the Convolutional Bi-LSTM model outperforms others in predicting equipment failures, making it a promising approach for industrial PdM applications.
 
-- **Link to paper**: [Enhanced Equipment Reliability Through Predictive Maintenance Modeling: A Machine Learning Approach (DOCX)](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modelin_ZheWeeNg.docx)
+- **Link to paper**: [Enhanced Equipment Reliability Through Predictive Maintenance Modeling: A Machine Learning Approach (PDF)](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modeling%20-%20A%20Machine%20Learning%20Approach_Zhe%20Wee_Ng.pdf)
 
 
 ## 🔗 How to Cite
