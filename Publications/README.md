@@ -4,28 +4,23 @@ Welcome to my publication repository. This space lists my academic publications.
 
 ## 📚 Publication List
 
-### 1. **Data-Driven Sustainable Design Opportunities from Automated User Insights**
-- **Authors:** Goridkov, A., Ng, Z. W., Chen, F., and Goucher-Lambert, K.  
-- **Venue:** *ASME IDETC-CIE 2025*, Anaheim, California — Published in conference proceedings (IDETC2025-169019).  
-- **Abstract:**  
-  This paper introduces an automated NLP-based framework that extracts design-relevant sustainability insights from large-scale online reviews.  
-  Using BERT, VADER, LDA, NMF, and OpenAI APIs, the study identifies correlations between consumer sentiment and sustainability attributes,  
-  revealing opportunities for sustainable product redesign and certification alignment.  
-- **Link to paper:** [Data-Driven Sustainable Design Opportunities from Automated User Insights (PDF)](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Data-Driven%20Sustainable%20Design%20Opportunities%20from%20Automated%20User%20Insights.pdf)
+### 1. **Machine Learning-Aided Supply Chain Analysis of Waste Management Systems: System Optimization for Sustainable Production**
+- **Authors:** Ng, Z. W.*, Debnath, B., & Chattopadhyay, A. K.* (*Corresponding Authors*)
+- **Venue:** *Sustainability (MDPI, Q2 SCI)*, 17 (19), 8848 (2025):contentReference[oaicite:0]{index=0}  
+- **Summary:**  
+  Developed a machine-learning-driven framework for circular e-waste supply-chain optimization, combining Feedforward Neural Networks, Random Forest models, and Monte Carlo simulation to address data sparsity and model system resilience. Achieved \(R^2≈0.97\) across 21 variables, identifying key economic and environmental levers governing supply-chain sustainability.  
+- **Link:** [Publisher page (MDPI)](https://www.mdpi.com/2071-1050/17/19/8848)
 
-
-### 2. **Enhanced Equipment Reliability Through Predictive Maintenance Modeling: A Machine Learning Approach**
-- **Author:** Ng, Z. W.  
-- **Venue:** *Sustainability (MDPI, Q2 SCI)*, 17 (19), 8848 (2025).  
-- **Abstract:**  
-  This study applies machine-learning-based predictive maintenance (PdM) modeling to industrial reliability optimization.  
-  Using time-series datasets and LSTM-based architectures, it compares RNN, Conv-LSTM, and Bi-LSTM variants to forecast equipment failures.  
-  Results show that a convolutional Bi-LSTM model achieves the best predictive performance, demonstrating strong potential for practical PdM deployment.  
-- **Link to paper:** [Enhanced Equipment Reliability Through Predictive Maintenance Modeling: A Machine Learning Approach (PDF)](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Enhanced%20Equipment%20Reliability%20Through%20Predictive%20Maintenance%20Modeling%20-%20A%20Machine%20Learning%20Approach_Zhe%20Wee_Ng.pdf)
+### 2. **Data-Driven Sustainable Design Opportunities from Automated User Insights**
+- **Authors:** Goridkov, N., Ng, Z. W., Chen, F., & Goucher-Lambert, K.  
+- **Venue:** *Proceedings of the ASME 2025 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2025)*, Anaheim, CA — Paper IDETC2025-169019:contentReference[oaicite:1]{index=1}  
+- **Summary:**  
+  Built a database of 23 000 Amazon reviews covering 290 sustainability-certified products and applied BERT, VADER, LDA, NMF, and GPT-based analysis to extract design-relevant sustainability signals. Generated automated insights linking user sentiment to product certifications, revealing how consumers perceive and value sustainable features in practice.  
+- **Link:** [Conference PDF](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Data-Driven%20Sustainable%20Design%20Opportunities%20from%20Automated%20User%20Insights.pdf)
 
 ## 🔗 How to Cite
 
 ```plaintext
-1. Goridkov, A., Ng, Z. W., Chen, F., & Goucher-Lambert, K. "Data-Driven Sustainable Design Opportunities from Automated User Insights." ASME IDETC-CIE 2025, Anaheim, CA.  
-2. Ng, Zhe Wee. "Enhanced Equipment Reliability Through Predictive Maintenance Modeling: A Machine Learning Approach." Sustainability (MDPI, Q2 SCI), 17 (19), 8848 (2025).
+Ng, Z. W., Debnath, B., & Chattopadhyay, A. K. (2025). Machine Learning-Aided Supply Chain Analysis of Waste Management Systems: System Optimization for Sustainable Production. *Sustainability (MDPI, Q2 SCI)*, 17 (19), 8848.
 
+Goridkov, N., Ng, Z. W., Chen, F., & Goucher-Lambert, K. (2025). Data-Driven Sustainable Design Opportunities from Automated User Insights. *Proceedings of the ASME IDETC-CIE 2025*, IDETC2025-169019, Anaheim, CA.
