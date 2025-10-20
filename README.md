@@ -1,6 +1,6 @@
 # Zhe Wee (Derrick) Ng's Portfolio
 
-Welcome to my portfolio! I’m Zhe Wee Ng, also known as Derrick, an undergraduate Computer Science major at UC Berkeley, graduating in May 2025. My academic focus lies in leveraging Artificial Intelligence and Machine Learning to address real-world challenges through interdisciplinary applications in advanced manufacturing, sustainability, biomedical research, and generative AI. 
+Welcome to my portfolio! I’m Zhe Wee (Derrick) Ng, a Computer Science major at UC Berkeley graduating May 2025 and incoming MEng in Artificial Intelligence student at UCLA. I apply AI/ML to real-world problems through data-driven, interdisciplinary research spanning sustainability, supply chain optimization, biomedical innovation, and autonomous systems.
 
 This repository highlights my coursework, research projects, and publications, showcasing my contributions to developing data-driven, scalable solutions across these dynamic fields.
 
