@@ -1,43 +1,43 @@
 # Research Projects by Zhe Wee (Derrick) Ng
 
-This repository highlights my research projects, focusing on applying advanced AI techniques to analyze and interpret data for interdisciplinary applications, including sustainable design, 3D video generation, and dynamic scene rendering.
+This repository showcases my research projects that apply advanced Artificial Intelligence and Machine Learning techniques across sustainability, natural-language processing, and multimodal forecasting.  
+Each project integrates data-driven modeling and real-world impact within domains such as supply-chain optimization, sustainable design, and autonomous robotics.
 
-## Featured Research
+---
 
-### Research Assistant – Berkeley Engineering Design Scholars Program & Co-Design Lab
+## Lead Researcher – Machine Learning-Aided Supply Chain Analysis  
+**Independent Research Project**  
+*April 2024 – October 2025*
+
+- Led a quantitative study applying machine learning to optimize **circular waste-management supply chains**, modeling the interaction of cost, logistics, and environmental factors.  
+- Built a **MATLAB–Python framework** integrating Feedforward Neural Networks, Random Forests, and Monte Carlo simulations for **parameter sensitivity and efficiency optimization**.  
+- Achieved predictive accuracy of **R² ≈ 0.97** across 21 sustainability variables and identified key process levers driving system performance and emission outcomes.  
+- First and corresponding author of the paper published in *Sustainability (MDPI, Q2 SCI)*, **17 (19), 8848 (2025)**.  
+
+[View Paper](https://www.mdpi.com/2071-1050/17/19/8848)
+
+---
+
+## Research Assistant – Berkeley Engineering Design Scholars Program & Co-Design Lab  
 **Jacobs Institute for Design Innovation & Department of Mechanical Engineering, UC Berkeley**  
-*June 2024 – Present*
+*June 2024 – May 2025*
 
-- Conducted research on sustainable design, initiated during the **Berkeley Engineering Design Scholars Program** and continuing under the **Co-Design Lab** with Dr. Kosa Goucher-Lambert.
-- Developed web scraping tools using **DrissionPage**, **Selenium**, and **BeautifulSoup** to extract and analyze Amazon product data, automating pagination, login, and error handling.
-- Applied NLP techniques in Python, including:
-  - **Aspect-Based Sentiment Analysis (ABSA)** with models like **BERT**, **VADER**, and **OpenAI’s API**.
-  - **Topic modeling** using **LDA** and **NMF** to assess customer perceptions.
-- Evaluated correlations between sustainability certifications and consumer sentiment using correlation matrices, providing actionable insights for sustainable product design.
-  
-[View Completed GitHub Repo](https://github.com/NGZheWee/NLP-DrivenSustainableDesign)
+- Contributed to **data-driven sustainable-design research**, integrating user-centered design principles with advanced NLP pipelines under the mentorship of **Dr. Kosa Goucher-Lambert**.  
+- Built a database of **23 000 + Amazon reviews** spanning 290 sustainability-certified products through automated web-scraping using DrissionPage and structured data workflows.  
+- Applied Python-based NLP methods including **BERT**, **VADER**, **LDA**, **NMF**, and **OpenAI API** for sentiment analysis, topic modeling, and correlation analysis to extract actionable sustainability insights.  
+- Co-author of a peer-reviewed paper presented at **ASME IDETC-CIE 2025 (Anaheim, CA)**, published in the conference proceedings (**IDETC2025-169019**).  
+
+[View GitHub Repository](https://github.com/NGZheWee/NLP-DrivenSustainableDesign)
 
 ---
 
-### Research Assistant – Diffusive AI Lab
-**Tsinghua University, Beijing, China**  
-*October 2024 – Present*
+## Research Assistant – Squishy Robotics, Berkeley Expert Systems Technologies Lab  
+**Department of Mechanical Engineering, UC Berkeley**  
+*January 2025 – May 2025*
 
-- Part of the **Diffusive AI Lab**, guided by Dr. Zheng Zhu, working on a scalable, diffusion-driven 3D video generation system with a focus on:
-  - Persistent state tracking across frames.
-  - Dynamic, text-based scene modifications.
-- Implementing advanced state-tracking mechanisms:
-  - **Environmental encoding** with attention-enhanced VAEs.
-  - **Action-based updates** driven by LSTMs trained on sequential data for consistent object placement and temporal coherence.
-- Developing a text-prompted scene modification framework that includes:
-  - **LLM-driven command parsing** and **cross-attention transformers** for text-to-scene alignment.
-  - A **dynamic scene graph** to enable real-time updates and coherent rendering.
-- Leveraging diffusion models to enhance 3D scene synthesis with fine-grained control over dynamic modifications.
+- Conducted exploratory data analysis on the **Corsican Fire Database** to identify modality imbalance and missing annotations.  
+- Implemented **computer-vision and Gemini-based pipelines** for data augmentation and labeling to enhance RGB–IR coverage and descriptor completeness.  
+- Designed a **descriptor-guided multimodal forecasting framework** combining RGB, IR, and textual descriptors through **EfficientNet**, **ViT**, and **BERT-based late-fusion with LSTM** temporal modeling for wildfire-spread and intensity prediction.  
+- Delivered an interpretable, deployable forecasting module integrated into **Squishy Robotics’ autonomous wildfire-response platform**, generating visual–language outputs for real-time validation and field deployment.  
 
-[View Completed GitHub Repo](https://github.com/NGZheWee-UCSD/open-oasis)
-
----
-
-## About
-
-These projects exemplify my commitment to integrating cutting-edge AI techniques with real-world applications, bridging domains like sustainable design, video synthesis, and dynamic scene generation. Each project emphasizes data-driven methodologies to address complex, interdisciplinary challenges.
+[View GitHub Repository](https://github.com/NGZheWee/SquishyWildfireMultimodalForecasting)
