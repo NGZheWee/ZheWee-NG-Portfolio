@@ -45,7 +45,7 @@ Mathematics forms the backbone of computer science, helping to solve complex com
 |                                      | Discrete Mathematics and Probability Theory                       | COMPSCI 70  | UCB         | Fall 2023   |
 | **Probability & Statistics**         | Statistical Methods                                               | MATH 183    | UCSD        | Fall 2021   |
 | **Linear Algebra**                   | Linear Algebra                                                    | MATH 18     | UCSD        | Spring 2021 |
-|                                      | Linear Algebra & Differential Equations                           | MATH 18     | UCB        | Spring 2025 |
+|                                      | Linear Algebra & Differential Equations                           | MATH 54     | UCB        | Spring 2025 |
 
 ---
 
