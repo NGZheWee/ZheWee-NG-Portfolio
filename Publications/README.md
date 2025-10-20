@@ -16,7 +16,7 @@ Welcome to my publication repository. This space lists my academic publications.
 - **Venue:** *Proceedings of the ASME 2025 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE 2025)*, Anaheim, CA — Paper IDETC2025-169019:contentReference[oaicite:1]{index=1}  
 - **Summary:**  
   Built a database of 23 000 Amazon reviews covering 290 sustainability-certified products and applied BERT, VADER, LDA, NMF, and GPT-based analysis to extract design-relevant sustainability signals. Generated automated insights linking user sentiment to product certifications, revealing how consumers perceive and value sustainable features in practice.  
-- **Link:** [Conference PDF](https://github.com/NGZheWee/ZheWee-NG-Portfolio/blob/main/Publications/Data-Driven%20Sustainable%20Design%20Opportunities%20from%20Automated%20User%20Insights.pdf)
+- **Link:** [Conference PDF](https://codesign.berkeley.edu/papers/goridkov-reviews-idetc/)
 
 ## 🔗 How to Cite
 
