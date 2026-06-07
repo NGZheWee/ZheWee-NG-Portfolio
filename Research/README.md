@@ -1,6 +1,6 @@
 # Zhe Wee (Derrick) Ng's Research
 
-Selected research projects applying machine learning to engineering decision-making under incomplete, noisy, or unstructured data. Across e-waste supply-chain optimization, sustainable product-design analysis, and wildfire-response forecasting, the shared theme is translating real-world signals into interpretable models, datasets, and design or operations guidance.
+Selected research projects applying machine learning to translate incomplete, noisy, and unstructured engineering data into interpretable models, datasets, and design or operations guidance across e-waste supply-chain optimization, sustainable product-design analysis, and wildfire-response forecasting.
 
 ## Research Projects
 
