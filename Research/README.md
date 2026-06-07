@@ -27,7 +27,7 @@ Each project integrates data-driven modeling and real-world impact within domain
 - Applied Python-based NLP methods including **BERT**, **VADER**, **LDA**, **NMF**, and **OpenAI API** for sentiment analysis, topic modeling, and correlation analysis to extract actionable sustainability insights.  
 - Co-author of a peer-reviewed paper presented at **ASME IDETC-CIE 2025 (Anaheim, CA)**, published in the conference proceedings (**IDETC2025-169019**).  
 
-[View GitHub Repository](https://github.com/NGZheWee/SustainableDesign-NLP-UserInsights)
+[View GitHub Repository](https://github.com/NGZheWee/CoDesignLab-SustainableDesign-NLP)
 
 ---
 
@@ -40,4 +40,4 @@ Each project integrates data-driven modeling and real-world impact within domain
 - Designed a **descriptor-guided multimodal forecasting framework** combining RGB, IR, and textual descriptors through **EfficientNet**, **ViT**, and **BERT-based late-fusion with LSTM** temporal modeling for wildfire-spread and intensity prediction.  
 - Delivered an interpretable, deployable forecasting module integrated into **Squishy Robotics’ autonomous wildfire-response platform**, generating visual–language outputs for real-time validation and field deployment.  
 
-[View GitHub Repository](https://github.com/NGZheWee/Wildfire-Multimodal-Forecasting)
+[View GitHub Repository](https://github.com/NGZheWee/SquishyRobotics-Wildfire-Forecasting)
