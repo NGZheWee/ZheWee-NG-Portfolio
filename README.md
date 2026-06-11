@@ -20,8 +20,8 @@ Selected research projects with summaries of focus, methods, contributions, and 
 
 Selected peer-reviewed journal and conference publications with metadata, summaries, links, and citations.
 
-## Contact and CV
+## Contact and Resume
 
-For more information on my academic and professional background, view my [CV](CV_ZheWee_NG.pdf).
+For more information on my academic and professional background, view my [resume](Resume_ZheWee_NG.pdf).
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/ngzhewee/) or reach me at [derrickng1024@g.ucla.edu](mailto:derrickng1024@g.ucla.edu).
